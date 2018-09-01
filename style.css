@@ -47,6 +47,7 @@ li a {
     color: purple;
 }
 
-.social {
-    
+.socials {
+    position: fixed;
+    bottom: 0px;
 }
