@@ -17,13 +17,16 @@ li {
 
 ul {
     list-style-type: none;
-    margin: 0;
+    margin: 30px 250px 0px 0px;
     padding: 0;
     overflow: hidden;
 }
 
 li {
-    float: left;
+    float: right;
+    margin: 0 18px;
+    right: 250px;
+    font-weight: 900;
 }
 
 li a {
