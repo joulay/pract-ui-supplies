@@ -45,10 +45,10 @@ li a {
     font-size: 100px;
     text-align: center;
     margin-top: 10%;
-    color: purple;
+    color: #673AB7;
 }
 
-.socials {
+#socials {
     position: fixed;
     bottom: 0px;
 }
@@ -65,3 +65,4 @@ li a {
     right: 33px;
     top: 28px;
 }
+
