@@ -57,5 +57,11 @@ li a {
     width: 35px;
     height: 5px;
     background-color: black;
-    margin: 6px 0;
+    margin: 5px 0;
+}
+
+.h {
+    position: absolute;
+    right: 33px;
+    top: 28px;
 }
